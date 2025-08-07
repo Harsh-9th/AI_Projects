@@ -1,0 +1,400 @@
+{
+  "documents": [
+    {
+      "id": "symptom_pain_sudden_acute",
+      "type": "symptom_characteristic",
+      "content": "Pain is sudden (acute): The onset of pain is abrupt and rapid. This characteristic is often seen in conditions like Appendicitis, Diverticulitis, Intestinal Obstruction, Pancreatitis, Kidney Stones, Food Poisoning, Gas and Gas Pains, Viral Gastroenteritis, and Shingles."
+    },
+    {
+      "id": "symptom_pain_crampy",
+      "type": "symptom_characteristic",
+      "content": "Pain is crampy: The pain feels like spasms or contractions. Common in Appendicitis, Crohn's Disease, Celiac Disease, Diverticulitis, Irritable Bowel Syndrome, Intestinal Obstruction, Lactose Intolerance, Constipation, Food Poisoning, Gas and Gas Pains, Viral Gastroenteritis, Menstrual Cramps, Mittelschmerz, Diarrhea, and Endometriosis."
+    },
+    {
+      "id": "symptom_pain_dull",
+      "type": "symptom_characteristic",
+      "content": "Pain is dull: The pain is a less intense, persistent ache. Often associated with Appendicitis, Crohn's Disease, Menstrual Cramps, and Mittelschmerz."
+    },
+    {
+      "id": "symptom_pain_intense",
+      "type": "symptom_characteristic",
+      "content": "Pain is intense: The pain is very severe or excruciating. This is a key feature of Appendicitis, Pancreatitis, Gallstones, Cholecystitis, Kidney Stones, and Shingles. Intense pain can be a red flag."
+    },
+    {
+      "id": "symptom_pain_sharp",
+      "type": "symptom_characteristic",
+      "content": "Pain is sharp: The pain feels piercing or acute. Found in Appendicitis, Diverticulitis, Pancreatitis, Mittelschmerz, and Gas and Gas Pains."
+    },
+    {
+      "id": "symptom_pain_steady",
+      "type": "symptom_characteristic",
+      "content": "Pain is steady: The pain is constant and does not come and go in waves. Present in Appendicitis, Gastritis, Diverticulitis, Pancreatitis, Gallstones, Cholecystitis, Intestinal Obstruction, Irritable Bowel Syndrome, Constipation, and Shingles."
+    },
+    {
+      "id": "symptom_pain_burning",
+      "type": "symptom_characteristic",
+      "content": "Pain is burning: A sensation of heat or burning. Characteristic of Peptic Ulcer, Gastritis, Functional Dyspepsia, and Shingles."
+    },
+    {
+      "id": "symptom_pain_ongoing_chronic",
+      "type": "symptom_characteristic",
+      "content": "Pain is ongoing (chronic): The pain persists over a long period. Common in Peptic Ulcer, Crohn's Disease, Gastritis, Celiac Disease, Irritable Bowel Syndrome, Lactose Intolerance, Functional Dyspepsia, Ulcerative Colitis, Colon Cancer, Constipation, and Gas and Gas Pains."
+    },
+    {
+      "id": "symptom_pain_gnawing",
+      "type": "symptom_characteristic",
+      "content": "Pain is gnawing: A persistent, dull, aching pain, often described as a 'gnawing' sensation. Associated with Peptic Ulcer, Gastritis, and Functional Dyspepsia."
+    },
+    {
+      "id": "symptom_pain_intermittent_episodic",
+      "type": "symptom_characteristic",
+      "content": "Pain is intermittent or episodic: The pain comes and goes in episodes or waves. Found in Peptic Ulcer, Crohn's Disease, Gastritis, Diverticulitis, Irritable Bowel Syndrome, Gallstones, Cholecystitis, Intestinal Obstruction, Constipation, Menstrual Cramps, Mittelschmerz, and Endometriosis."
+    },
+    {
+      "id": "symptom_pain_worsening_progressing",
+      "type": "symptom_characteristic",
+      "content": "Pain is worsening or progressing: The pain is gradually increasing in severity or frequency. Can indicate Peptic Ulcer or Colon Cancer."
+    },
+    {
+      "id": "symptom_pain_radiates",
+      "type": "symptom_location",
+      "content": "Pain located in abdomen but radiates to other parts of the body: The pain spreads from the abdomen to areas like the back, shoulder, or groin. Seen in Peptic Ulcer, Pancreatitis, Gallstones, Cholecystitis, Kidney Stones, Menstrual Cramps, and Abdominal Aortic Aneurysm."
+    },
+    {
+      "id": "symptom_pain_lower_abdomen",
+      "type": "symptom_location",
+      "content": "Pain located in lower abdomen: Pain concentrated in the lower part of the belly. Common in Appendicitis, Mittelschmerz, and Endometriosis."
+    },
+    {
+      "id": "symptom_pain_middle_abdomen",
+      "type": "symptom_location",
+      "content": "Pain located in middle abdomen: Pain around the navel or central belly area. Associated with Appendicitis, Gastritis, Gallstones, and Abdominal Aortic Aneurysm."
+    },
+    {
+      "id": "symptom_pain_upper_abdomen",
+      "type": "symptom_location",
+      "content": "Pain located in upper abdomen: Pain in the upper part of the belly, below the ribs. Found in Gastritis, Pancreatitis, Gallstones, Cholecystitis, and Functional Dyspepsia."
+    },
+    {
+      "id": "symptom_pain_one_or_both_sides",
+      "type": "symptom_location",
+      "content": "Pain located in one or both sides: Pain localized to the right or left flank. Characteristic of Appendicitis and Kidney Stones."
+    },
+    {
+      "id": "trigger_coughing_jarring",
+      "type": "trigger_worsening",
+      "content": "Triggered or worsened by coughing or other jarring movements: Pain intensifies with physical jarring. Seen in Appendicitis and Diverticulitis."
+    },
+    {
+      "id": "trigger_alcohol",
+      "type": "trigger_worsening",
+      "content": "Triggered or worsened by drinking alcohol: Alcohol consumption exacerbates pain. Associated with Peptic Ulcer and Gastritis."
+    },
+    {
+      "id": "trigger_eating_certain_foods",
+      "type": "trigger_worsening",
+      "content": "Triggered or worsened by eating certain foods: Specific foods cause pain to increase. Common in Peptic Ulcer, Gastritis, Celiac Disease, Irritable Bowel Syndrome, Pancreatitis, Gallstones, Cholecystitis, Lactose Intolerance, Functional Dyspepsia, Food Poisoning, Gas and Gas Pains, and Viral Gastroenteritis."
+    },
+    {
+      "id": "trigger_stress",
+      "type": "trigger_worsening",
+      "content": "Triggered or worsened by stress: Psychological stress increases pain. Associated with Peptic Ulcer, Irritable Bowel Syndrome, and Functional Dyspepsia."
+    },
+    {
+      "id": "trigger_menstrual_cycle",
+      "type": "trigger_worsening",
+      "content": "Triggered or worsened by menstrual cycle: Pain is linked to the menstrual period. Seen in Menstrual Cramps and Endometriosis."
+    },
+    {
+      "id": "relief_antacids",
+      "type": "relief_factor",
+      "content": "Relieved by antacids: Pain lessens after taking antacid medication. Characteristic of Peptic Ulcer and Functional Dyspepsia."
+    },
+    {
+      "id": "relief_eating_certain_foods",
+      "type": "relief_factor",
+      "content": "Relieved by eating certain foods: Specific foods help alleviate the pain. Associated with Peptic Ulcer and Functional Dyspepsia."
+    },
+    {
+      "id": "relief_avoiding_certain_foods",
+      "type": "relief_factor",
+      "content": "Relieved by avoiding certain foods: Pain decreases when specific foods are excluded from the diet. Seen in Celiac Disease and Lactose Intolerance, Gas and Gas Pains."
+    },
+    {
+      "id": "relief_changing_position",
+      "type": "relief_factor",
+      "content": "Relieved by changing position: Adjusting body posture eases the pain. Characteristic of Pancreatitis."
+    },
+    {
+      "id": "relief_drinking_water",
+      "type": "relief_factor",
+      "content": "Relieved by drinking more water: Increased fluid intake alleviates pain. Associated with Constipation."
+    },
+    {
+      "id": "relief_eating_fiber",
+      "type": "relief_factor",
+      "content": "Relieved by eating more fiber: Increased dietary fiber helps reduce pain. Associated with Constipation."
+    },
+    {
+      "id": "accompany_abdominal_swelling",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by abdominal swelling: The belly appears or feels distended. Found in Appendicitis, Crohn's Disease, Gastritis, Celiac Disease, Irritable Bowel Syndrome, Intestinal Obstruction, and Food Poisoning."
+    },
+    {
+      "id": "accompany_black_bloody_stools",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by black or bloody stools: Presence of blood in bowel movements (can be dark/tarry or bright red). Associated with Peptic Ulcer, Crohn's Disease, Ulcerative Colitis, and Colon Cancer."
+    },
+    {
+      "id": "accompany_constipation",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by constipation: Difficulty or infrequent bowel movements. Found in Appendicitis, Crohn's Disease, Diverticulitis, Intestinal Obstruction, and Colon Cancer."
+    },
+    {
+      "id": "accompany_diarrhea",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by diarrhea: Loose, watery stools. Common in Appendicitis, Crohn's Disease, Celiac Disease, Diverticulitis, Irritable Bowel Syndrome, Intestinal Obstruction, Lactose Intolerance, Food Poisoning, Viral Gastroenteritis, Ulcerative Colitis, Colon Cancer, and Diarrhea itself."
+    },
+    {
+      "id": "accompany_fever",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by fever: Elevated body temperature. Indicates infection in Appendicitis, Crohn's Disease, Diverticulitis, Gallstones, Cholecystitis, Food Poisoning, Viral Gastroenteritis, and Diarrhea."
+    },
+    {
+      "id": "accompany_nausea_vomiting",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by nausea or vomiting: Feeling sick to the stomach and/or throwing up. Very common in Appendicitis, Peptic Ulcer, Crohn's Disease, Gastritis, Diverticulitis, Pancreatitis, Gallstones, Cholecystitis, Intestinal Obstruction, Lactose Intolerance, Functional Dyspepsia, Food Poisoning, Viral Gastroenteritis, and Kidney Stones."
+    },
+    {
+      "id": "accompany_unintended_weight_loss",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by unintended weight loss: Significant weight reduction without trying. Associated with Peptic Ulcer, Crohn's Disease, Gastritis, Celiac Disease, Pancreatitis, Ulcerative Colitis, and Colon Cancer."
+    },
+    {
+      "id": "accompany_rash",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by rash: Skin eruption. Found in Crohn's Disease, Celiac Disease, Ulcerative Colitis, and Shingles."
+    },
+    {
+      "id": "accompany_passing_gas",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by passing gas: Flatulence. Common in Celiac Disease, Irritable Bowel Syndrome, Lactose Intolerance, Functional Dyspepsia, and Gas and Gas Pains."
+    },
+    {
+      "id": "accompany_stomach_growling",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by stomach growling or rumbling: Audible digestive sounds. Associated with Celiac Disease and Lactose Intolerance."
+    },
+    {
+      "id": "accompany_inability_move_bowels",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by inability to move bowels in spite of urge: Tenesmus. Characteristic of Ulcerative Colitis."
+    },
+    {
+      "id": "accompany_loose_watery_stools",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by loose, watery stools: Specific type of diarrhea. Found in Diarrhea itself."
+    },
+    {
+      "id": "accompany_urgent_bowel_movement",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by urgent need to have a bowel movement: Urgency. Found in Diarrhea."
+    },
+    {
+      "id": "accompany_pulsing_sensation_navel",
+      "type": "accompanying_symptom",
+      "content": "Accompanied by pulsing sensation near the navel: A noticeable throbbing near the belly button. Characteristic of Abdominal Aortic Aneurysm."
+    },
+    {
+      "id": "disease_appendicitis_summary",
+      "type": "disease_summary",
+      "content": "Appendicitis: Inflammation of the appendix. Pain is sudden, often starts middle abdomen then moves to lower right, can be crampy, dull, intense, sharp, steady. Worsened by jarring movements. Accompanied by swelling, constipation, diarrhea, fever, nausea/vomiting. **Often a medical emergency.**"
+    },
+    {
+      "id": "disease_peptic_ulcer_summary",
+      "type": "disease_summary",
+      "content": "Peptic Ulcer: Sores in stomach/intestine lining. Pain is burning, gnawing, chronic, intermittent, worsening. Can radiate. Worsened by alcohol, certain foods, stress. Relieved by antacids, some foods. Accompanied by black/bloody stools, nausea/vomiting, unintended weight loss."
+    },
+    {
+      "id": "disease_crohns_summary",
+      "type": "disease_summary",
+      "content": "Crohn's Disease: Chronic inflammatory bowel disease. Pain is chronic, crampy, dull, intermittent. Accompanied by swelling, black/bloody stools, constipation, diarrhea, fever, nausea/vomiting, rash, unintended weight loss."
+    },
+    {
+      "id": "disease_gastritis_summary",
+      "type": "disease_summary",
+      "content": "Gastritis: Stomach lining inflammation. Pain is burning, gnawing, chronic, intermittent, steady. Located middle/upper abdomen. Worsened by alcohol, certain foods. Accompanied by swelling, nausea/vomiting, unintended weight loss."
+    },
+    {
+      "id": "disease_celiac_summary",
+      "type": "disease_summary",
+      "content": "Celiac Disease: Gluten intolerance. Pain is crampy, chronic. Worsened by eating certain foods. Relieved by avoiding certain foods. Accompanied by swelling, diarrhea, gas, rash, stomach growling, unintended weight loss."
+    },
+    {
+      "id": "disease_diverticulitis_summary",
+      "type": "disease_summary",
+      "content": "Diverticulitis: Inflamed pouches in colon. Pain is sudden, crampy, intermittent, sharp, steady. Worsened by jarring. Accompanied by constipation, diarrhea, fever, nausea/vomiting."
+    },
+    {
+      "id": "disease_ibs_summary",
+      "type": "disease_summary",
+      "content": "Irritable Bowel Syndrome (IBS): Chronic large intestine disorder. Pain is chronic, crampy, intermittent, steady. Worsened by eating certain foods, stress. Accompanied by swelling, constipation, diarrhea, gas."
+    },
+    {
+      "id": "disease_pancreatitis_summary",
+      "type": "disease_summary",
+      "content": "Pancreatitis: Pancreas inflammation. Pain is sudden, intense, sharp, steady. Located upper abdomen, radiates. Worsened by eating certain foods. Relieved by changing position. Accompanied by nausea/vomiting, unintended weight loss. **Can be a medical emergency.**"
+    },
+    {
+      "id": "disease_gallstones_summary",
+      "type": "disease_summary",
+      "content": "Gallstones: Hard deposits in gallbladder. Pain is intense, intermittent, steady. Located middle/upper abdomen, radiates. Worsened by eating certain foods. Accompanied by fever, nausea/vomiting."
+    },
+    {
+      "id": "disease_cholecystitis_summary",
+      "type": "disease_summary",
+      "content": "Cholecystitis: Gallbladder inflammation. Pain is crampy, intense, intermittent, steady. Located upper abdomen, radiates. Accompanied by fever, nausea/vomiting. **Can be a medical emergency.**"
+    },
+    {
+      "id": "disease_intestinal_obstruction_summary",
+      "type": "disease_summary",
+      "content": "Intestinal Obstruction: Blockage in intestines. Pain is sudden, crampy, intermittent, steady. Accompanied by swelling, constipation, diarrhea, nausea/vomiting. **Medical emergency.**"
+    },
+    {
+      "id": "disease_lactose_intolerance_summary",
+      "type": "disease_summary",
+      "content": "Lactose Intolerance: Inability to digest lactose. Pain is chronic, crampy. Worsened by eating certain foods. Relieved by avoiding certain foods. Accompanied by diarrhea, nausea/vomiting, gas, stomach growling."
+    },
+    {
+      "id": "disease_functional_dyspepsia_summary",
+      "type": "disease_summary",
+      "content": "Functional Dyspepsia: Persistent indigestion without cause. Pain is burning, gnawing. Located upper abdomen. Worsened by stress. Relieved by antacids, eating certain foods. Accompanied by nausea/vomiting, gas."
+    },
+    {
+      "id": "disease_ulcerative_colitis_summary",
+      "type": "disease_summary",
+      "content": "Ulcerative Colitis: Chronic colon inflammation. Pain is crampy, intermittent, chronic. Accompanied by black/bloody stools, diarrhea, inability to move bowels despite urge, rash, unintended weight loss."
+    },
+    {
+      "id": "disease_colon_cancer_summary",
+      "type": "disease_summary",
+      "content": "Colon Cancer: Cancer in large intestine. Pain is crampy, chronic, worsening. Accompanied by black/bloody stools, constipation, diarrhea, unintended weight loss."
+    },
+    {
+      "id": "disease_constipation_summary",
+      "type": "disease_summary",
+      "content": "Constipation: Infrequent/difficult bowel movements. Pain is sudden, chronic, crampy, intermittent. Relieved by drinking more water, eating more fiber. Accompanied by constipation."
+    },
+    {
+      "id": "disease_food_poisoning_summary",
+      "type": "disease_summary",
+      "content": "Food Poisoning: Illness from contaminated food. Pain is sudden, crampy. Worsened by eating certain foods. Accompanied by swelling, diarrhea, fever, nausea/vomiting."
+    },
+    {
+      "id": "disease_gas_pains_summary",
+      "type": "disease_summary",
+      "content": "Gas and Gas Pains: Trapped gas. Pain is sudden, chronic, crampy, sharp. Worsened by eating certain foods. Relieved by avoiding certain foods. Accompanied by passing gas."
+    },
+    {
+      "id": "disease_viral_gastroenteritis_summary",
+      "type": "disease_summary",
+      "content": "Viral Gastroenteritis (Stomach Flu): Viral stomach infection. Pain is sudden, crampy. Worsened by eating certain foods. Accompanied by diarrhea, fever, nausea/vomiting."
+    },
+    {
+      "id": "disease_kidney_stones_summary",
+      "type": "disease_summary",
+      "content": "Kidney Stones: Mineral deposits in kidneys. Pain is sudden, intense. Radiates from abdomen to other parts/sides. Accompanied by nausea/vomiting. **Can be a medical emergency.**"
+    },
+    {
+      "id": "disease_menstrual_cramps_summary",
+      "type": "disease_summary",
+      "content": "Menstrual Cramps: Pain during menstruation. Pain is crampy, dull, intermittent. Radiates from abdomen. Worsened by menstrual cycle."
+    },
+    {
+      "id": "disease_mittelschmerz_summary",
+      "type": "disease_summary",
+      "content": "Mittelschmerz: Ovulation pain. Pain is crampy, dull, intermittent, sharp. Located in lower abdomen."
+    },
+    {
+      "id": "disease_shingles_summary",
+      "type": "disease_summary",
+      "content": "Shingles: Viral infection causing rash. Pain is sudden, burning, intense, steady. Accompanied by rash."
+    },
+    {
+      "id": "disease_diarrhea_summary",
+      "type": "disease_summary",
+      "content": "Diarrhea: Frequent, loose, watery stools. Pain is crampy. Accompanied by fever, loose/watery stools, urgent need for bowel movement."
+    },
+    {
+      "id": "disease_endometriosis_summary",
+      "type": "disease_summary",
+      "content": "Endometriosis: Tissue similar to uterine lining growing outside uterus. Pain is chronic, crampy, intermittent. Located in lower abdomen. Worsened by menstrual cycle."
+    },
+    {
+      "id": "disease_abdominal_aortic_aneurysm_summary",
+      "type": "disease_summary",
+      "content": "Abdominal Aortic Aneurysm: Bulging in abdominal aorta. Pain located in middle abdomen, radiates. Accompanied by pulsing sensation near navel. **Life-threatening emergency if ruptured.**"
+    },
+    {
+      "id": "red_flag_accident_injury",
+      "type": "red_flag",
+      "content": "RED FLAG: Abdominal pain is related to a recent accident or injury. This requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_chest_neck_shoulder_pain",
+      "type": "red_flag",
+      "content": "RED FLAG: Abdominal pain is accompanied by pain in your chest, neck, or shoulder. This can indicate a serious condition and requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_shortness_of_breath_dizziness",
+      "type": "red_flag",
+      "content": "RED FLAG: Abdominal pain is accompanied by shortness of breath or dizziness. This is a critical symptom requiring immediate medical attention."
+    },
+    {
+      "id": "red_flag_vomit_blood",
+      "type": "red_flag",
+      "content": "RED FLAG: You vomit blood. This is a severe sign of internal bleeding and requires immediate emergency medical care."
+    },
+    {
+      "id": "red_flag_black_bloody_stool",
+      "type": "red_flag",
+      "content": "RED FLAG: Your stool is black or bloody. This indicates internal bleeding and requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_blood_in_urine",
+      "type": "red_flag",
+      "content": "RED FLAG: You find blood in your urine. This can indicate a serious issue with the urinary tract or kidneys and requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_abdomen_swollen_tender",
+      "type": "red_flag",
+      "content": "RED FLAG: Your abdomen is swollen and tender. This can indicate severe inflammation or infection and requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_high_fever",
+      "type": "red_flag",
+      "content": "RED FLAG: You experience a high fever (e.g., above 102°F or 39°C) with abdominal pain. This suggests a significant infection and requires immediate medical attention."
+    },
+    {
+      "id": "red_flag_persistent_nausea_vomiting",
+      "type": "red_flag",
+      "content": "RED FLAG: You experience persistent nausea or vomiting that does not subside. This can lead to dehydration or indicate a serious underlying condition and requires immediate medical attention."
+    },
+    {
+      "id": "not_trained",
+      "type": "system_message",
+      "content": "I apologize, but but I am not trained on these basis. Please consult a qualified professional for other health concerns."
+    },
+    {
+      "id": "greet_response",
+      "type": "system_message",
+      "content": "Hi! This is an AI assistant built for checking symptoms for adult abdominal pain. Please describe your symptoms, and I'll do my best to help you understand them based on my knowledge."
+    },
+    {
+      "id": "age_denial_message",
+      "type": "system_message",
+      "content": "I apologize, but I am only designed for adult(18 years and older) only. Pls consult with a pediatrician."
+    }
+  ]
+}
+
