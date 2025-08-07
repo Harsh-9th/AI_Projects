@@ -2,21 +2,21 @@
 
 ## Overview
 
-This project is a sophisticated medical chatbot designed to assist with adult abdominal pain symptoms. It leverages a **Retrieval-Augmented Generation (RAG)** architecture to provide accurate, grounded information from a specialized knowledge base, ensuring responses are relevant and safe. A key feature is the integration of **rule-based triage** to recommend professional medical assistance for severe symptoms and to gracefully handle queries outside its domain.
+This project is a medical chatbot designed to assist with adult abdominal pain symptoms. It leverages a **Retrieval-Augmented Generation (RAG)** architecture to provide accurate, grounded information from a specialized knowledge base, ensuring responses are relevant and safe. A key feature is the integration of **rule-based triage** to recommend professional medical assistance for severe symptoms and to gracefully handle queries outside its domain.
 
 ## Tech Stack
 
 ### Frontend
-![Reactjs]
-![TypeScript]
-![TailwindCSS]
+![Reactjs]  
+![TypeScript]  
+![TailwindCSS]  
 
 ### Backend/AI
-![Python]
-![FastAPI]
-![Langchain]
-![GeminiAPI]
-![ChromaDB]
+![Python]  
+![FastAPI]  
+![Langchain]  
+![GeminiAPI]  
+![ChromaDB]  
 
 ## Project Structure
 
